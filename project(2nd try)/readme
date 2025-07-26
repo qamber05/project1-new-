@@ -1,2 +1,81 @@
 if i had more time: i would sounds and categouries
 and learn how to do timer.
+
+<a id="readme-top"></a>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h3 align="center">Quiz Game</h3>
+
+  <p align="center">
+    A browser-based interactive Quiz Game with multiple-choice questions, score tracking, and dynamic question navigation.
+    <br />
+    <br />
+    <strong>Built using HTML, CSS, and JavaScript</strong>
+  </p>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+---
+
+## About The Project
+
+This is a simple web-based multiple-choice Quiz Game where users can test their knowledge by answering random questions. The game displays one question at a time with clickable answer options. A score is tracked throughout the game, and feedback is shown after each question.
+
+This project aims to demonstrate basic JavaScript interactivity, event handling, and DOM manipulation in a fun and educational format.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## Features
+
+- Multiple-choice question interface
+- Real-time score tracking
+- Answer validation and feedback
+- Next question logic with reset on completion
+- Support for basic randomization of question order (optional future feature)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## Getting Started
+
+To run the quiz locally:
+
+### Prerequisites
+
+A modern web browser (e.g. Chrome, Firefox, Edge)
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/qamber05/project1-new-/tree/main/project(2nd%20try)
